@@ -11,12 +11,15 @@ Key components to be fulfilled :
 Load the Diabetes dataset from sklearn.
 Handle any missing values if present.
 Normalize the features to ensure better performance of the ANN model.
+
 2.Exploratory Data Analysis (EDA) (4 marks)
 Perform EDA to understand the distribution of features and the target variable.
 Visualize the relationships between features and the target variable.
+
 3.Building the ANN Model (4 marks)
 Design a simple ANN architecture with at least one hidden layer.
 Use appropriate activation functions .
+
 4.Training the ANN Model (4 marks)
 Split the dataset into training and testing sets.
 Train the model on the training data.
